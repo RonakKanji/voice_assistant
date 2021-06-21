@@ -5,11 +5,7 @@ import datetime
 import pyjokes
 
 CONTACTS = {
-    'priyanka': '+919657565949',
-    'rohit': '+918408036714',
-    'sahil': '+919960318965',
-    'mum': '+917798409589',
-    'myself': '+917378846849'
+    
 }
 listener = sr.Recognizer()
 engine = pyttsx3.init()
